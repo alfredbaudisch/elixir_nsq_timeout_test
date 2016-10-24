@@ -44,6 +44,8 @@ post /messages => {"message" => "foo"}
 get /publish
 ```
 
+To mass publish via the API: `ab -n 10000 -c 10 "http://<YOUR HOST>:4000/api/publish"`
+
 **Consumer**
 
 ```
