@@ -1,7 +1,7 @@
 elixir_nsq timeout tests
 ===
 
-Sample code to validate timeouts with NSQ Publishers and Consumers as per this issue: [https://github.com/wistia/elixir_nsq/issues/3](Timeouts on both Consumers and Producers).
+Sample code to validate timeouts with NSQ Publishers and Consumers as per this issue: [Timeouts on both Consumers and Producers](https://github.com/wistia/elixir_nsq/issues/3).
 
 How to run
 ==
